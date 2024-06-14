@@ -1,3 +1,3 @@
 ## PS4:
-- **Accepted**8
-- **Tried**:9
+- **Tried**:9 
+- **Accepted**:8
