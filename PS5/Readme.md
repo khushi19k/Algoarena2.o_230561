@@ -1,3 +1,3 @@
 ## PS5
-- **Accepted :** 8
-- **Tried :** 10
+- **Accepted :** 9
+- **Tried :** 11
